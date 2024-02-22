@@ -1,0 +1,5 @@
+name: Python-Basics-part-2
+channels:
+  - defaults
+dependencies:
+  - python
